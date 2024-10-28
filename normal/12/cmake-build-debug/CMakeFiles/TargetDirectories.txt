@@ -1,0 +1,3 @@
+D:/code/homework/12/cmake-build-debug/CMakeFiles/12.dir
+D:/code/homework/12/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/homework/12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
